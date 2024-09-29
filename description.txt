@@ -1,0 +1,1 @@
+This is a simple React project using Vite, created for learning Git commands.
